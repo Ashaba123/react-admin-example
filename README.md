@@ -7,4 +7,8 @@ React
 
 # Install
 
-npm init
+npm init 
+npm install
+npm run server
+npx create-react-app client
+
