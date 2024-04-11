@@ -1,5 +1,5 @@
 # React Admin Dashboard 
 - [Using](#Using)
 # Using: 
- json-server
- React
+ -json-server
+ -React
