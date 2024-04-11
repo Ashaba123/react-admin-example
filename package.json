@@ -1,0 +1,14 @@
+{
+  "name": "reactadmin",
+  "version": "1.0.0",
+  "description": "learning react admin",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "author": "Ashaba Derrrick",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post one",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "Post two",
+      "views": 200
+    },
+    {
+      "id": "d226",
+      "title": "Post three",
+      "views": 300
+    },
+    {
+      "id": "4c54",
+      "title": "Post three",
+      "views": 300
+    },
+    {
+      "id": "a84e",
+      "title": "Post Five",
+      "views": 500
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Derrick Ashaba",
+      "email": "example@gmail.com"
+    }
+  ]
+}
